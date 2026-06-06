@@ -124,6 +124,10 @@ You are welcome to reference, share, remix and adapt my original notes and refle
 
 Code snippets, if any, may be used under the [MIT License](https://opensource.org/license/mit) unless otherwise stated.
 
+### Third-party assets
+
+See [THIRD_PARTY_NOTICES.md](-/THIRD_PARTY_NOTICES.md)
+
 ## Acknowledgement
 
 Thanks to DevRel University organizers, the Cohort 7 peers, speakers and community for creating this learning experience.
