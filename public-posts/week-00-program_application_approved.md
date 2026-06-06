@@ -11,6 +11,10 @@ Accepted into DevRel Uni Cohort 7 — now comes the hard part: learning in publi
 
 ## Post draft
 
+Both posts use an image from the DevRelUni acceptance mail.   
+
+<img src="../assets/DevRelUni/accepted_cohort_7.png" alt="drawing" width="200"/>
+
 ### LinkedIn
 
 About two months ago, I found out that my application for [DevRel University](https://www.devreluni.com/) **Cohort 7** was accepted.
