@@ -6,7 +6,8 @@ From software development to HR with a focus on developer advocacy: why DevRel U
 
 ## Platform
 
-[LinkedIn / X]
+* [X] LinkedIn 
+* [X] X.com
 
 ## Post draft
 

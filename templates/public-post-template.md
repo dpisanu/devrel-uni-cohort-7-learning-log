@@ -6,7 +6,11 @@
 
 ## Platform
 
-[LinkedIn / X / Dev.to / Hashnode / Farcaster / Other]
+* [ ] LinkedIn 
+* [ ] X.com
+* [ ] Dev.to 
+* [ ] Hashnode 
+* [ ] Other
 
 ## Post draft
 
