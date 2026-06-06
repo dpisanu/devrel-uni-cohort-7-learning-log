@@ -2,7 +2,7 @@
 
 ## DevRel Uni Cohort 7 application
 
-[Write a short title or hook.]
+From software development to HR with a focus on developer advocacy: why DevRel Uni feels like the right next step
 
 ## Platform
 
