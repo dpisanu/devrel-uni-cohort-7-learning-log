@@ -10,6 +10,8 @@
 
 ## Post draft
 
+### LinkedIn
+
 This week in DevRel University Cohort 7, we explored [theme].
 
 The biggest idea that stood out to me was:
@@ -34,14 +36,30 @@ My question going forward is:
 
 #DevRel #DeveloperRelations #BuildInPublic #DevRelUni
 
+### X
+
 ## Final post link
 
-[URL]
+* [LinkedIn](URL)
+* [x.com](URL)
 
 ## Notes after publishing
 
-**Engagement or responses:**  
-[Any comments, questions, or useful feedback you received.]
+[Notes]
 
-**What I learned from posting publicly:**  
-[Reflection.]
+### Engagement or responses:
+
+#### LinkedIn
+* Impressions : ____
+* Unique members reached : ____
+* New followers : ____
+* New profile views : ____
+* Engagement
+    * Reactions : ____
+    * Comments : ____
+* Top demographics
+    * ____ : ____
+
+### What I learned from posting publicly:
+
+[Learnings]
