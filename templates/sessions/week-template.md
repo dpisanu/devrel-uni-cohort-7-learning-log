@@ -6,50 +6,59 @@
 **Session:** [Session title]  
 **Speaker(s):** [Name(s)]  
 **Theme:** [Main theme of the week]  
-**Status:** Not started / In progress / Completed  
+**Status:** Not started / In progress / Completed
 
-## Summary
+## One-sentence summary
 
-[Write a short summary of what this week was about in your own words.]
+[Summarize the week in one sentence. Keep this short; the detailed notes belong in `session-notes.md`.]
 
-## Key questions for this week
+## Why this week matters
 
-- [Question 1]
-- [Question 2]
-- [Question 3]
+[Explain why this week matters for your DevRel University journey in 2-4 sentences.]
 
-## What I learned
+## Key outcomes
 
-- [Learning 1]
-- [Learning 2]
-- [Learning 3]
+- [Outcome 1]
+- [Outcome 2]
+- [Outcome 3]
 
-## Activities completed
+## Project snapshot
 
-- [Activity 1]
-- [Activity 2]
-- [Activity 3]
+This week’s project direction is documented in [`project-brief.md`](./project-brief.md).
 
-## Homework
+**Working title:** [Project or artifact name]  
+**Status:** New / continued / changed / paused / completed  
+**One-line description:** [Short description]
 
-**Task:**  
-[Summarize the homework prompt in your own words.]
+## File guide
 
-**My submission:**  
-[Link to `my-submission.md` or paste summary here.]
+| File | Purpose |
+|---|---|
+| [`project-brief.md`](./project-brief.md) | Weekly project snapshot, boundary, decisions and retrospective |
+| [`session-notes.md`](./session-notes.md) | Concepts, ideas and session takeaways |
+| [`activities.md`](./activities.md) | Exercises, working material and process notes |
+| [`homework.md`](./homework.md) | Assignment prompt, requirements and completion checklist |
+| [`my-submission.md`](./my-submission.md) | Completed homework answer or artifact |
+| [`public-reflection.md`](./public-reflection.md) | Personal learning synthesis and open questions |
+| [`private-resources.md`](./private-resources.md) | Public-safe note about private cohort resources |
 
-## Public post
+## Public artifact
 
+**Post file:** [`../../public-posts/week-XX-post.md`](../../public-posts/week-XX-post.md)  
 **Platform:** [LinkedIn / X / Dev.to / Hashnode / Other]  
-**Post link:** [URL]
+**Published link:** [URL or `Not published yet`]
 
-## Reflection
+## Completion checklist
 
-[What changed in your thinking after this week?]
+- [ ] Session notes completed
+- [ ] Activities documented
+- [ ] Homework prompt summarized
+- [ ] Submission completed
+- [ ] Project brief updated
+- [ ] Public reflection written
+- [ ] Public post drafted or published
+- [ ] Private resources boundary note checked
 
-## Related files
+## Notes for future me
 
-- [Session notes](./session-notes.md)
-- [Activities](./activities.md)
-- [Homework](./homework.md)
-- [My submission](./my-submission.md)
+[Anything useful for the next week. Keep this short. Longer retrospectives belong in `project-brief.md` or `public-reflection.md`.]
