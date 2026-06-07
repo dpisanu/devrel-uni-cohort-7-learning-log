@@ -2,4 +2,4 @@
 *.bak
 
 # Folders not for git
-*private-resources*
+*private-assets*
