@@ -6,19 +6,19 @@
 **Week:** 01  
 **Assignment:** Framing Your Project  
 **Status:** Draft  
-**My project framing:** Open Source Readiness Field Guide  
+**My project framing:** Open Source Readiness Field Guide
 
 ## Objective
 
-This week is about grounding the cohort journey by defining what I am building and reflecting on my role as a builder in an AI-shaped world.
+This week was about grounding the cohort journey by defining what I am building and reflecting on my role as a builder in an AI-shaped world.
+
+This file documents the homework structure. My actual answer is in [`my-submission.md`](./my-submission.md).
 
 ## Part 1: Project selection
 
-Choose a project to develop throughout the cohort.
+Choose a project to develop during the cohort. The project should be realistic enough to iterate on during the five-week program.
 
-The project should be realistic enough to iterate on during the five-week cohort.
-
-Potential project types include:
+Potential project types included:
 
 - Educational content series
 - Documentation revamp or onboarding guide
@@ -94,5 +94,6 @@ Submit:
 ## Submission files
 
 - [`my-submission.md`](./my-submission.md) — Full written homework response.
-- [`public-reflection.md`](./public-reflection.md) — My Week 1 reflection.
-- [`../../public-posts/week-01-post.md`](../../public-posts/week-01-post.md) — Draft public build-in-public post.
+- [`project-brief.md`](./project-brief.md) — Project definition and Week 01 retrospective.
+- [`public-reflection.md`](./public-reflection.md) — My Week 01 reflection.
+- [`../../public-posts/week-01-post.md`](../../public-posts/week-01-post.md) — Public build-in-public post.

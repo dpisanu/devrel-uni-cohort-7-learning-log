@@ -1,8 +1,8 @@
 # Private Resources: Week 01
 
-This file documents the types of private cohort resources used during Week 1 without republishing links or restricted materials.
+This file documents the types of private cohort resources used during Week 01 without republishing links or restricted materials.
 
-DevRel University resources are intended for Cohort 7 participants only. This public repository does not include private Notion links, Miro board links, Zoom recording links, slide decks, submission forms, or internal cohort materials.
+DevRel University resources are intended for Cohort 7 participants only. This public repository does not include private Notion links, Miro board links, Zoom recording links, slide decks, submission forms, internal cohort materials, Telegram messages, or Discord discussions.
 
 ## Private resources for this week
 
