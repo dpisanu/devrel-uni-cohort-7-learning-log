@@ -19,7 +19,7 @@ It is my personal learning log, written from my own perspective as a Cohort 7 pa
 * Activities and exercises
 * The world of Homework 
     * My own homework submissions
-	* Links to Cohort peer submissions
+	* Public links to peer submissions, where explicitly shared for public viewing
 * Public posts and reflections
 * Useful links and resources
 
@@ -41,24 +41,23 @@ Everything here is either my own work, my personal interpretation, or publicly a
 ## Repository structure
 
 ```txt
-weeks/
-  week-01-building-devrel-ai/
-  week-02-tech-career/
-  week-03-high-velocity-building/
-  week-04-agent-experience/
-  week-05-ai-devrel-community/
-
-public-posts/
-  Weekly posts written for learning in public
-
-templates/
-  Reusable templates for notes, homework, and reflections
-
-resources/
-  Links, glossary, and additional reading
-
-assets/
-  Images, diagrams, and visual notes
+devrel-uni-cohort-7-learning-log/
+├── assets/
+│   ├── DevRelUni/
+│   └── own/
+│
+├── public-posts/
+│
+├── templates/
+│
+├── weeks/
+│   ├── week-01-building-devrel-ai/
+│   ├── week-02-tech-career/
+│   ├── week-03-high-velocity-building/
+│   ├── week-04-agent-experience/
+│   └── week-05-ai-devrel-community/
+│
+└── README
 ```
 
 ## Weekly documentation format
@@ -98,9 +97,9 @@ A short post or summary that can be shared publicly on LinkedIn, X, Farcaster, H
 
 ## Progress tracker
 
-| Week   | Status      | Public Post   | Homework      |
-| ------ | ----------- | ------------- | ------------- |
-| Week 1 | Not started | Not published | Not submitted |
+|        | Status      | Public Post   | Homework      |
+| ------ | :---------- | :------------ | :------------ |
+| Week 1 | completed   | published     | submitted     |
 | Week 2 | Not started | Not published | Not submitted |
 | Week 3 | Not started | Not published | Not submitted |
 | Week 4 | Not started | Not published | Not submitted |

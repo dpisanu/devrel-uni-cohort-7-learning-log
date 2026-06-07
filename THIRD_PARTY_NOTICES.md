@@ -18,7 +18,7 @@ Reuse, redistribution, modification, republication, or commercial use of these a
 
 ## My original content
 
-My original notes, reflections, summaries, homework submissions, public learning artifacts, and other written content created by me are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License unless otherwise stated.
+My original notes, reflections, summaries, homework submissions, public learning artifact and other written content created by me are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) license unless otherwise stated.
 
 ## Code
 

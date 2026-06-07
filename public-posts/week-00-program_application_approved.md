@@ -13,7 +13,7 @@ Accepted into DevRel Uni Cohort 7 — now comes the hard part: learning in publi
 
 Both posts use an image from the DevRelUni acceptance mail.   
 
-<img src="../assets/DevRelUni/accepted_cohort_7.png" alt="drawing" width="200"/>
+<img src="../assets/devrel-university/accepted_cohort_7.png" alt="drawing" width="200"/>
 
 ### LinkedIn
 
