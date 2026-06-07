@@ -1,42 +1,42 @@
-# DevRel University 
+# DevRel University
 
 ## Cohort 7 Learning Log
 
 A public learning journal documenting my 5-week journey through [DevRel University](https://www.devreluni.com/) **Cohort 7**.
 
-This repository contains my session notes, weekly themes, activities, homework tasks, reflections and personal homework submissions. 
-The goal is to learn in public, track my growth and create a reusable reference for anyone interested in Developer Relations, Developer Experience and community building.
+This repository contains my session notes, weekly themes, activities, homework tasks, reflections, public posts, and personal homework submissions. The goal is to learn in public, track my growth, and create a reusable reference for anyone interested in Developer Relations, Developer Experience, open source, AI, and community building.
 
 ## About this repository
 
-This is **not** an official DevRel University repository.
+This is **not** an official DevRel University repository. It is my personal learning log, written from my own perspective as a Cohort 7 participant.
 
-It is my personal learning log, written from my own perspective as a Cohort 7 participant. I will use this space to document:
+I will use this space to document:
 
-* Session summaries
-* Key ideas and takeaways
-* Weekly themes
-* Activities and exercises
-* The world of Homework 
-    * My own homework submissions
-	* Public links to peer submissions, where explicitly shared for public viewing
-* Public posts and reflections
-* Useful links and resources
+- Session summaries
+- Key ideas and takeaways
+- Weekly themes
+- Activities and exercises
+- Homework tasks
+- My own homework submissions
+- Weekly project briefs and retrospectives
+- Public posts and reflections
+- Useful links and resources
 
-I will not republish private cohort materials, slides, recordings, or any content that is not mine to share. 
+I will not republish private cohort materials, slides, recordings, or any content that is not mine to share.
+
 Everything here is either my own work, my personal interpretation, or publicly available information with attribution.
 
 ## Cohort structure
 
-| Week   | Session Theme                                            | Focus                                                                        |
-| ------ | -------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Week 1 | Building & DevRel in the Age of AI                       | What stays, what evolves, and how DevRel changes in an AI-native world       |
-| Week 2 | Navigating Your Tech Career                              | Career growth, adaptability, and decision-making in a fast-changing industry |
-| Week 3 | Building and Shipping at High Velocity                   | Learning systems, fast iteration, and building with AI-enabled workflows     |
-| Week 4 | From Developer Experience to Agent Experience            | How AI agents change developer workflows, tools, and product experiences     |
-| Week 5 | AI-Enhanced DevRel and Permissionless Community Building | Community growth, accessibility, and DevRel in open ecosystems               |
+| Week | Session theme | Focus |
+|---|---|---|
+| Week 1 | Building & DevRel in the Age of AI | What stays, what evolves, and how DevRel changes in an AI-native world |
+| Week 2 | Navigating Your Tech Career | Career growth, adaptability, and decision-making in a fast-changing industry |
+| Week 3 | Building and Shipping at High Velocity | Learning systems, fast iteration, and building with AI-enabled workflows |
+| Week 4 | From Developer Experience to Agent Experience | How AI agents change developer workflows, tools, and product experiences |
+| Week 5 | AI-Enhanced DevRel and Permissionless Community Building | Community growth, accessibility, and DevRel in open ecosystems |
 
-*Taken directly from the DevRel University website*
+*Session themes taken from the DevRel University website.*
 
 ## Repository structure
 
@@ -57,49 +57,46 @@ devrel-uni-cohort-7-learning-log/
 │   ├── week-04-agent-experience/
 │   └── week-05-ai-devrel-community/
 │
-└── README
+└── README.md
 ```
 
 ## Weekly documentation format
 
-Each week will include:
+Each week can include the following files:
 
-### 1. Session notes
+### 1. `README.md`
 
-A summary of the session in my own words, including:
+The weekly landing page. It gives a short overview, links to all artifacts, and explains the documentation boundary for the week.
 
-* Main topic
-* Speaker
-* Key ideas
-* Memorable quotes or concepts
-* Questions I had
-* Ideas I want to explore further
+### 2. `project-brief.md`
 
-### 2. Theme
+The weekly project snapshot. It captures the current project idea, audience, problem, boundaries, and a short retrospective about how the project changed during that week.
 
-A short explanation of the week’s main theme and why it matters for DevRel.
+### 3. `session-notes.md`
 
-### 3. Activities
+A summary of the session in my own words, including the main ideas, important concepts, questions, and takeaways.
 
-A record of the exercises, discussions, or practical activities completed during the week.
+### 4. `activities.md`
 
-### 4. Homework
+A record of practical exercises, collaboration activities, brainstorming, or working notes from the week.
 
-The homework prompt or task, summarized in my own words.
+### 5. `homework.md`
 
-### 5. My submission
+A summary of the homework prompt or task, plus links to the completed submission and public artifacts.
 
-My completed homework, including drafts, final outputs, screenshots, links, or reflections where relevant.
+### 6. `my-submission.md`
 
-### 6. Public reflection
+My completed homework submission for the week.
 
-A short post or summary that can be shared publicly on LinkedIn, X, Farcaster, Hashnode, Dev.to, or another platform.
+### 7. `public-reflection.md`
+
+A personal reflection on what changed in my thinking during the week.
 
 ## Progress tracker
 
-|        | Status      | Public Post   | Homework      |
-| ------ | :---------- | :------------ | :------------ |
-| Week 1 | completed   | published     | submitted     |
+| | Status | Public post | Homework |
+|---|:---:|:---:|:---:|
+| Week 1 | Completed | Published | Submitted |
 | Week 2 | Not started | Not published | Not submitted |
 | Week 3 | Not started | Not published | Not submitted |
 | Week 4 | Not started | Not published | Not submitted |
@@ -109,24 +106,23 @@ A short post or summary that can be shared publicly on LinkedIn, X, Farcaster, H
 
 By the end of the 5 weeks, I want to:
 
-* Build a clearer understanding of modern Developer Relations
-* Understand how AI changes DevRel and community work
-* Practice documenting my learning in public
-* Improve my writing, communication, and technical storytelling
-* Explore what it means to create a portfolio-style record for DevRel growth
-* Turn homework into reusable public artifacts
+- Build a clearer understanding of modern Developer Relations
+- Understand how AI changes DevRel and community work
+- Practice documenting my learning in public
+- Improve my writing, communication, and technical storytelling
+- Explore what it means to create a portfolio-style record for DevRel growth
+- Turn homework into reusable public artifacts
 
 ## License
 
 This repository is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-You are welcome to reference, share, remix and adapt my original notes and reflections with attribution. 
 
-Code snippets, if any, may be used under the [MIT License](https://opensource.org/license/mit) unless otherwise stated.
+You are welcome to reference, share, remix, and adapt my original notes and reflections with attribution. Code snippets, if any, may be used under the [MIT License](https://opensource.org/license/mit) unless otherwise stated.
 
 ### Third-party assets
 
-See [THIRD_PARTY_NOTICES.md](-/THIRD_PARTY_NOTICES.md)
+See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md).
 
 ## Acknowledgement
 
-Thanks to DevRel University organizers, the Cohort 7 peers, speakers and community for creating this learning experience.
+Thanks to the DevRel University organizers, Cohort 7 peers, speakers, and community for creating this learning experience.
