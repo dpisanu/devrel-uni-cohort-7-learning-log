@@ -42,7 +42,7 @@ The lesson I am taking forward: inspiration is useful, but focus is what turns i
 
 ## Final post link
 
-* [LinkedIn](TODO)
+* [LinkedIn](https://www.linkedin.com/posts/daniel-pisanu_devreluni-devrel-developerrelations-share-7469483897060372480-xuhq)
 
 ## Notes after publishing
 
