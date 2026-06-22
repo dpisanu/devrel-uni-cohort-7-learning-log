@@ -107,9 +107,10 @@ The honest public story is:
 * The sunk-cost lesson from Week 02 became real much faster than expected.
 * I am pivoting toward a smaller product-shaped idea and using Week 03 concepts to scope it more intentionally.
 
-The draft post is available here:
+The post is available here:
 
 * [../../public-posts/week-03-post.md](../../public-posts/week-03-post.md)
+* Live under [LinkedIn](https://www.linkedin.com/posts/daniel-pisanu_devreluni-devrel-developerrelations-activity-7469880386236624896-XL53)
 
 ## Connection to Week 02
 
